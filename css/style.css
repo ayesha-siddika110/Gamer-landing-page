@@ -508,8 +508,9 @@ header{
         height: 60rem;
     }
     .career-image{
-        width: 100%;
+        width: 82.9%;
         margin-top: 20%;
+        /* border: 1px solid red; */
         
         
     }
