@@ -247,6 +247,71 @@ a {
     margin-top: 48%;
 }
 
+/*  funny videos area ends here */
+
+/* play instant area start here */
+
+.play-container{
+    /* border: 1px solid red; */
+    height: 500px;
+    display: flex;
+    align-items: center;
+    text-align: end;
+}
+.pw40{
+    width: 40%;
+    position: relative;
+    left: 60%;
+}
+
+.play-content{
+    width: 40%;
+    text-align: end;
+    /* border: 1px solid red; */
+
+}
+
+.play-image{
+    width: 55%;
+    position: relative;
+    right: 5%;
+    /* border: 1px solid green; */
+
+}
+
+.image1{
+    width: 60%;
+
+}
+.image2{
+    width: 30%;
+    position: absolute;
+    top: 55%;
+    left: 25%;
+}
+
+
+/* play instant area ends here */
+
+.play-small-img2{
+    width: 30%;
+    position: absolute;
+    top: 55%;
+    left: 65%;
+
+}
+.text-align-ends{
+    text-align: left;
+}
+
+.img1-position{
+    position: relative;
+    top: 0;
+    left: -20%;
+    /* right: 30%; */
+
+}
+
 
 
 
